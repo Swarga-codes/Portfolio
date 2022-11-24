@@ -385,6 +385,11 @@ resize: none;
    
 
 }
+/* .newBx{
+    height: 26rem;
+    padding: 1rem 1rem;
+    width: 70rem;
+} */
 @media(max-width: 600px){
     header,
     header.sticky{
